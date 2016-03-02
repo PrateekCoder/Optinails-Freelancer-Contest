@@ -1,6 +1,6 @@
-/*************************
-*******Header******
-**************************/
+/*=========================================*/
+                   /*Header*/
+/*=========================================*/
 
 .navbar>.container .navbar-brand{
   margin-left: 0;
@@ -52,7 +52,43 @@ ul.social-share li a:hover {
   color: #fff;
 }
 
+.margin{
+  margin-top: 48px;
+}
 
-#header{
-  
+
+.logo{
+  margin-top: -12px;
+  margin-left: -20px;
+}
+
+.bottom{
+  border-bottom: 1px solid pink;
+}
+
+.heading{
+  font-size: 50px;
+}
+
+.content{
+  font-size: 20px;
+}
+
+.bottom2{
+  border-bottom: 1px solid white;
+  color: white;
+  padding: 10px;
+}
+
+#science{
+  background: #FFDEE2;
+}
+
+button{
+  margin-top: 8px;
+  align-items: center;
+}
+
+#faq{
+  background: #FFDEE2;
 }
