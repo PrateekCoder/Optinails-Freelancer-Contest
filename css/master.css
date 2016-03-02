@@ -92,3 +92,11 @@ button{
 #faq{
   background: #FFDEE2;
 }
+
+#footer{
+  background: #333;
+}
+
+.footimage{
+  padding: 20px;
+}
