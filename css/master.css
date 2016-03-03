@@ -2,6 +2,10 @@
                    /*Header*/
 /*=========================================*/
 
+body{
+  font-family: 'Lora', serif;
+}
+
 .navbar>.container .navbar-brand{
   margin-left: 0;
 }
